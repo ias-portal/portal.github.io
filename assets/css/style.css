@@ -140,11 +140,12 @@ main.container {
 .main-title .logo {
   position: absolute;
   right: 0;
-  top: -12px;
+  top: 4px;
+  bottom: -1px;
 }
 .main-title .logo img {
-  height: 44px;
-  width: 44px;
+  height: 72px;
+  width: 72px;
 }
 
 .tab-navigation {
